@@ -1,0 +1,17 @@
+.nav_contents{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_logo{
+    position: fixed;
+    right: 20px;
+    width: 80px;
+}
+
+.nav_Avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+}

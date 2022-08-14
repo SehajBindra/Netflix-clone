@@ -1,0 +1,4 @@
+.row_poster{
+    display: flex;
+    overflow-y: hidden;
+}
