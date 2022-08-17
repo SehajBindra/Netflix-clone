@@ -11,11 +11,11 @@ function HomeScreen() {
 
       <Banner />
 
-      {/* <Row
+      <Row
         title="Netflix Originals"
         fetchURL={requests.fetchNetflixOriginals}
         IsLargeRow
-      /> */}
+      />
 
       <Row title="Action" fetchURL={requests.fetchActionMovies} IsLargeRow />
 
